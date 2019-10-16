@@ -12,10 +12,10 @@ with readme: 33`
 Additionally this information is also provided per namespace:
 ```
 name space               , with lic, w/o lic,  readme
-argupta                  ,        3 ,        3,        3
-asmus                    ,        0 ,        1,        0
-BioImage Informatics     ,        1 ,        3,        0
-bioinfo                  ,        2 ,        0,        2
+abc                      ,        3 ,        3,        3
+def                      ,        0 ,        1,        0
+ghi                      ,        1 ,        3,        0
+xyz                      ,        2 ,        0,        2
 ```
 
 There might be gradle files missing. I don't know enough about gradle to be sure to include everything required.
