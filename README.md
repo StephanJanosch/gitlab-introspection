@@ -46,7 +46,8 @@ Use a token in order to access non public projects.
 
 ## Limitations
 
-There is no content checking going on. The script does not care what the repo holds.
+* Hardcoded config file location.
+* There is no content checking going on. The script does not care what the repo holds.
 
 ## Software Licenses
 
