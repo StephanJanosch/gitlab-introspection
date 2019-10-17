@@ -83,7 +83,7 @@ class GitlabLicenses {
         println "with readme: ${fullProjects.findAll { !it.readme_url }.size()}"
         println ""
 
-        printf('%-25s, %8s,%8s,%8s\n',['name space','with lic','w/o lic','readme'])
+        printf('%-25s, %8s,%8s,%8s\n',['namespace','with_lic','no_lic','readme'])
         fullProjects.namespace.name.unique().each { namespace ->
             def namespaceProjects = fullProjects.findAll { it.namespace.name.equals(namespace) }
 

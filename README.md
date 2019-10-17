@@ -11,7 +11,7 @@ with readme: 33`
 ```
 Additionally this information is also provided per namespace:
 ```
-name space               , with lic, w/o lic,  readme
+namespace                ,  with_lic,   no_lic,   readme
 abc                      ,        3 ,        3,        3
 def                      ,        0 ,        1,        0
 ghi                      ,        1 ,        3,        0
