@@ -51,8 +51,7 @@ Use a token in order to access non public projects.
 
 ## Software Licenses
 
-There exists an [OSS review toolkit](TODO: https://github.com/heremaps/oss-review-toolkit
-). This tool checks projects dependencies and highlights license conflicts.
+There exists an [OSS review toolkit](https://github.com/heremaps/oss-review-toolkit). This tool checks projects dependencies and highlights license conflicts.
 
 ## Maintainer
 
